@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Felipe Alves 🖐️
+## Olá! Eu sou o Felipe Alves 👋🏾
 
 ## Tecnologias que eu uso no meu dia
 [![ Principais idiomas ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lipezxs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
