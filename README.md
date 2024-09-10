@@ -9,7 +9,8 @@ Apaixonado pela área de tecnologia desde criança, sempre disposto a explorar n
 <div align="center">
 
  <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lipezxs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="200px" width="400px" src="(https://github-readme-stats.vercel.app/api?username=lipezxs&show_icons=true&theme=merko"
+   />
 
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
  </div>
@@ -46,7 +47,8 @@ Apaixonado pela área de tecnologia desde criança, sempre disposto a explorar n
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
 
- <a href="mailto:felipealvess.dev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="mailto:felipealvess.dev@gmail.com">
+ <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <!-- <a href="https://discord.com/users/803410251427872779">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
