@@ -9,7 +9,7 @@ Apaixonado pela área de tecnologia desde criança, sempre disposto a explorar n
 <div align="center">
 
  <div>
-   <img height="200px" width="400px" src="(https://github-readme-stats.vercel.app/api?username=lipezxs&show_icons=true&theme=merko"
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lipezxs&show_icons=true&theme=merko"
    />
 
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
