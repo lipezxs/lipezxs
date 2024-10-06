@@ -6,12 +6,12 @@ Me chamo Felipe Alves, Cursando Análise e Desenvolvimento de Sistemas pela UCB 
 
 <div align="center">
 
- <div>
+ <div align="center">
 
    ![lipezxs's Stats](https://github-readme-stats.vercel.app/api?username=lipezxs&theme=react&show_icons=true&hide_border=true&count_private=true)
 
    ![lipezxs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&theme=react&show_icons=true&hide_border=true&layout=compact)
-   
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
