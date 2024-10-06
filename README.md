@@ -7,10 +7,11 @@ Me chamo Felipe Alves, Cursando Análise e Desenvolvimento de Sistemas pela UCB 
 <div align="center">
 
  <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lipezxs&show_icons=true&theme=merko"
-   />
+  ![lipezxs's Stats](https://github-readme-stats.vercel.app/api?username=lipezxs&theme=react&show_icons=true&hide_border=true&count_private=true) 
 
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+   ![lipezxs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lipezxs&theme=react&hide_border=true)
+
+   ![lipezxs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&theme=react&show_icons=true&hide_border=true&layout=compact)
  </div>
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
