@@ -7,6 +7,7 @@ Me chamo Felipe Alves, Cursando Análise e Desenvolvimento de Sistemas pela UCB 
 <div align="center">
 
  <div>
+ 
   ![lipezxs's Stats](https://github-readme-stats.vercel.app/api?username=lipezxs&theme=react&show_icons=true&hide_border=true&count_private=true) 
 
    ![lipezxs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lipezxs&theme=react&hide_border=true)
