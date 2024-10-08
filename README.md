@@ -6,11 +6,10 @@ Me chamo Felipe Alves, Cursando Análise e Desenvolvimento de Sistemas pela UCB 
 
 <div align="center">
 
- <div align="center">
-
-   ![lipezxs's Stats](https://github-readme-stats.vercel.app/api?username=lipezxs&theme=react&show_icons=true&hide_border=true&count_private=true)
-
-   ![lipezxs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipezxs&theme=react&show_icons=true&hide_border=true&layout=compact)
+ <div>
+   <img height="200px" width="400px" src="https://camo.githubusercontent.com/87cd350345dd0ef813a50a00971a0d03760810fce0887da34bfd2b6b87a91bd0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6970657a7873267468656d653d72656163742673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565"/>
+   <img height="200px" width="400px" src="https://camo.githubusercontent.com/e50724dff6f4d6e8ac6355e89ad81c5903628d73573f541e972f8cd83fcecb02/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6970657a7873267468656d653d72656163742673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374"/>
+ </div>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
 
